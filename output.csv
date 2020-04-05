@@ -1,0 +1,61 @@
+Group No.,Group Name,Roll,Members,Project Name,Project Details
+1,B Creative,65,PRITIMOY SARKAR,ML integrated web application,Our web application should take input as a hand drawn layout of form and will produce an html file as output of that form.
+,,80,SANDIPAN SAU,,
+,,83,SASWATA MUKHOPADHYAY,,
+,,110,SUPRIYO DAS,,
+2,Runtime Terror,67,PUJA KAR,Fitness Management System,"It will contain 3 module.
+1)Admin can access
+Login,add member,delete member,add trainer,delete trainer.
+2)Member can access  login and payment3)Trainer can access tattendance"
+,,87,SHIRSHA SEN,,
+,,89,SHOUVIK GHOSH,,
+,,90,SHREETI PANDEY,,
+,,91,SHUBHAM KUMAR NANDI,,
+3,Bong_Squard,102,SOUVIK PATRA,Health care web application,It simply customer can take any kind of health care service through online and it also home care service.
+,,97,SOUMYA CHAKRABORTY,,
+,,100,SOURAV JANA,,
+,,101,SOUVIK LASKAR,,
+,,122,ARINDAM GHOSH,,
+4,The Optimizers,63,PRAKRITI GHOSH,Software based project on PHP & MYSQL,Online Birth Certification System
+,,113,SWARNADIPA  CHAKRABORTY,,
+,,128,SUSANTA DAS (L),,
+,,129,MAYNAK  KARMAKAR (L),,
+,,130,NISHA MONDAL (L),,
+5,Code_Unity,126,SUBHADEEP DEBROY (T),ECG Visualiser,A car remote controlled using smart phone can avoid obstacles
+,,123,ARHIT CHATTERJEE,,
+,,66,PROMISE DUTTA,,
+,,109,SUNIL MAITY,,
+,,70,RAHUL CHAKRABORTY,,
+6,0,72,RAJVIR SINGH,Online ticket booking website,Theatre movie ticket booking system using mvc and c# by ASP.NET
+,,69,QAISAR RAZA KAIFI,,
+,,81,SANJEEBAN SINGH,,
+,,79,SANDEEP KUMAR SHAW,,
+7,Zizzle Stark,77,RUMON MUKHERJEE,Alexa,It is a type of assistant that responds to a user’s voice with a personal welcome message.
+,,75,RITTIKA CHAKRABORTY,,
+,,73,RIMA PANJA,,
+,,84,SAYAN CHOWDHURY,,
+,,88,SHOURAV GHOSH,,
+8,The Learners,64,PRALAY GHOSH,Machine Learning,Implementation of a machine learning model
+,,82,SANKHA MONDAL,,
+,,76,ROHIT SHAW,,
+,,71,RAHUL KUMAR YADAV,,
+,,116,TANMAY NATH,,
+9,Nothing Special,104,SRIJIT PAL,Web Development with ML,Development of Blood Bank Management Website
+,,103,SRIJEETA ROUTH,,
+,,74,RITAMA SHARMA,,
+,,105,SUBHADITYA SAHA,,
+,,120,SIBAPRASAD MANNA,,
+10,Mind Units ,86,SHASHWATA GHOSH,Face Recognization Based Attendance System,Face Recognition based attendance system is a process of recognizing the students face for taking attendance in a simple way which will help authorities. 
+,,92,SINJANA SAHA,,
+,,96,SOME SEKHAR BANERJEE,,
+,,106,SUBHAJIT SARKAR,,
+,,117,TIRTHO BISWAS,,
+11,Binary Beast,93,SNEHANDU CHANDA,Suicide prediction,"The project aims to analyze the suicide rate in different countries by combining all the factors related to suicide. By this, social workers may be able to find where people are most likely to commit suicide and help them."
+,,94,SNIGDHA MAZUMDAR,,
+,,108,SUBHASREE MANDAL,,
+,,118,TRIYASHA KUNDU,,
+12,Penta Clan,119,UDAYADITYA SASMAL,Sentiment Analysis,The model predicts if there's any word with negative meaning or hate speech in a tweet.
+,,125,ANIK DUTTA,,
+,,112,SUSMITA GOSWAMI,,
+,,107,SUBHADEEP  DAS,,
+,,68,PURBASHA HATUI,,

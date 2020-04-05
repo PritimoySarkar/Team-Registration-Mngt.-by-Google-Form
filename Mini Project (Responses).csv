@@ -1,7 +1,16 @@
-﻿Timestamp,Project domain/Project topic,Describe your project shortly,Class Roll of Member 1,Class Roll of Member 2,Class Roll of Member 3,Class Roll of Member 4,Class Roll of Member 5
-3-26-2020 1:13:20,ML integrated web application,Our web application should take input as a hand drawn layout of form and will produce an html file as output of that form.,65,80,83,110,
-3-27-2020 14:52:59,Fitness Management System,"It will contain 3 module.
-1)Admin 2)Member 3)Trainer",67,87,89,90,91
-3-27-2020 20:34:38,Health care web application,It simply customer can take any kind of health care service through online and it also home care service.,102,97,100,101,122
-3-27-2020 21:17:36,Software based project on PHP & MYSQL,Library management system,113,128,129,130,
-3-27-2020 21:40:53,Obstacles avoiding car,A car remote controlled using smart phone can avoid obstacles,126,123,66,109,
+Timestamp,Project domain/Project topic,Describe your project shortly (Project Abstract),Class Roll of Member 1,Class Roll of Member 2,Class Roll of Member 3,Class Roll of Member 4,Class Roll of Member 5,Name of you Group
+3/26/2020 1:13:20,ML integrated web application,Our web application should take input as a hand drawn layout of form and will produce an html file as output of that form.,65,80,83,110,,B Creative
+4/3/2020 15:22:12,Fitness Management System,"It will contain 3 module.
+1)Admin can access
+Login,add member,delete member,add trainer,delete trainer.
+2)Member can access  login and payment3)Trainer can access tattendance",67,87,89,90,91,Runtime Terror
+4/3/2020 23:11:20,Health care web application,It simply customer can take any kind of health care service through online and it also home care service.,102,97,100,101,122,Bong_Squard
+4/4/2020 21:00:36,Software based project on PHP & MYSQL,Online Birth Certification System,63,113,128,129,130,The Optimizers
+4/4/2020 21:07:29,ECG Visualiser,A car remote controlled using smart phone can avoid obstacles,126,123,66,109,70,Code_Unity
+3/28/2020 19:38:37,Online ticket booking website,Theatre movie ticket booking system using mvc and c# by ASP.NET,72,69,81,79,,
+4/4/2020 16:29:37,Alexa,It is a type of assistant that responds to a user’s voice with a personal welcome message.,77,75,73,84,88,Zizzle Stark
+4/3/2020 15:34:00,Machine Learning,Implementation of a machine learning model,64,82,76,71,116,The Learners
+4/4/2020 16:15:32,Web Development with ML,Development of Blood Bank Management Website,104,103,74,105,120,Nothing Special
+4/4/2020 21:13:28,Face Recognization Based Attendance System,Face Recognition based attendance system is a process of recognizing the students face for taking attendance in a simple way which will help authorities. ,86,92,96,106,117,Mind Units 
+4/3/2020 19:57:30,Suicide prediction,"The project aims to analyze the suicide rate in different countries by combining all the factors related to suicide. By this, social workers may be able to find where people are most likely to commit suicide and help them.",93,94,108,118,,Binary Beast
+4/3/2020 23:31:00,Sentiment Analysis,The model predicts if there's any word with negative meaning or hate speech in a tweet.,119,125,112,107,68,Penta Clan
